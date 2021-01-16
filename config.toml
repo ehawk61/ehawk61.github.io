@@ -1,0 +1,27 @@
+baseURL = "ehawk61.github.io"
+languageCode = "en-us"
+theme = 'anatole'
+[params]
+title = "Meek Notes"
+author = "Jonathan L. Meek"
+description = "Call me Meek"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
