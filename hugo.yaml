@@ -215,7 +215,7 @@ menu:
 
         - identifier: mastodon
           name: Meek on Mastodon
-          url: https://
+          url: https://hachyderm.io/@j_l_meek
           params:
               icon: brand-mastodon
 
