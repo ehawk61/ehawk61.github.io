@@ -4,7 +4,7 @@ packages:
   - hugo
   - hut 
 environment:
-  site: meek.srht.site 
+  site: meeknot.es
 tasks:
   - package: |
       cd meeknot.es
