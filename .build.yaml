@@ -1,0 +1,16 @@
+image: alpine/edge
+oauth: pages.sr.ht/PAGES:RW
+packages:
+  - hugo
+  - hut 
+environment:
+  site: meek.srht.site 
+tasks:
+  - package: |
+      cd meeknot.es
+      hugo
+      tar -C public -cvz . > ../site.tar.gz
+  - upload: | 
+      hut pages publish -d $site site.tar.gz
+
+
