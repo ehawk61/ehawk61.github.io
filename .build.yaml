@@ -5,6 +5,7 @@ packages:
   - hut 
 environment:
   site: meeknot.es
+  wwwsite: www.meeknot.es
 tasks:
   - package: |
       cd meeknot.es
@@ -12,5 +13,6 @@ tasks:
       tar -C public -cvz . > ../site.tar.gz
   - upload: | 
       hut pages publish -d $site site.tar.gz
+      hug pages publish -d $wwwsite site.tar.gz
 
 
