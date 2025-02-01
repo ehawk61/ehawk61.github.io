@@ -2,17 +2,19 @@ image: alpine/edge
 oauth: pages.sr.ht/PAGES:RW
 packages:
   - hugo
-  - hut 
+  - hut
 environment:
   site: meeknot.es
   wwwsite: www.meeknot.es
 tasks:
   - package: |
       cd meeknot.es
-      hugo
+      hugo -b https://meeknot.es
       tar -C public -cvz . > ../site.tar.gz
-  - upload: | 
+      hugo -b https://www.meeknot.es
+      tar -C public -cvz . > ../wwwsite.tar.gz
+  - upload: |
       hut pages publish -d $site site.tar.gz
-      hut pages publish -d $wwwsite site.tar.gz
+      hut pages publish -d $wwwsite wwwsite.tar.gz
 
 
