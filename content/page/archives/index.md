@@ -1,5 +1,5 @@
 ---
-title: "Archives"
+title: "Meek Archives"
 date: 2024-11-30
 layout: "archives"
 slug: "archives"

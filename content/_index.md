@@ -1,7 +1,7 @@
 ---
 menu:
     main:
-        name: Home
+        name: Meek Home
         weight: -100
         params:
             icon: home
