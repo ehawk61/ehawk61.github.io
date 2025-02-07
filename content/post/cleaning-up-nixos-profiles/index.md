@@ -17,9 +17,11 @@ tags = [
 > BUT I found it was flagging all my profiles. Also when I applied the `--delete-older-than` flag it was
 > flagging things that were less than the timeframe. For example, I would set it for
 > `--delete-older-than 30d` but it would have a profile that I created in the  past few days. Without
-> digging too deep into things, I have a feeling that the flags are using a different date that my
-> expected date of when I created the profile. I think going forward I will use this but I think the
-> advice below is great for those who need more control in what gets purged. Again, I am still learning so > I might find something better and happy to update.
+> digging too deep into things, I have a feeling that the flags are using a different date than my
+> expectation. I was expecting the command to use the date of when I created the profile.
+> I think going forward I will use the `nix-collect-garbage` command but I think the advice below is great
+> for those who need more control in what gets purged. Again, I am still learning so I might find
+> something better and happy to update.
 
 In my adventures with NixOS, I got carried away in using profiles when I do `nixos-rebuild switch` for a system upgrade and/or adding new software to the laptop. I love idea of reverting when I screw something up without too much trouble. I had built up a collection about 40 items in my bootloader and realized I could do some pruning since they are there as "oh shit" catchers. However when I began looking around there wasn't clear advice on how to do this. I discovered a way to do this in case you pulled a me and overused the profile feature.
 
