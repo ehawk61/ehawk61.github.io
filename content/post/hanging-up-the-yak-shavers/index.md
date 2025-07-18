@@ -1,16 +1,15 @@
 +++
-author = “Jonathan L Meek”
-title = “Hanging Up The Yak Shavers”
-date = “2025-07-04”
-description = “Coming to terms with my primary system setup”
+author = "Jonathan L Meek"
+title = "Hanging Up the Yak Shavers"
+date = "2025-07-18"
+description = "Coming to Terms with my primary system setup"
 toc = false
 tags = [
-    “fedora”,
-    “cosmic”,
-    “yak shaving”
+    "fedora",
+    "cosmic",
+    "yak shavers"
 ]
 +++
-
 A few weeks ago, I migrated away from NixOS to Fedora COSMIC as my primary machine after a particular snafu I did with the primary machine. My intent was to temporarily be on Fedora and then get myself reset in NixOS but I realized I was doing more tinkering with NixOS than actually getting to the things I wanted to do (e.g. develop software, write blog entries).  
 
 With that thought, I decided I needed to find ways to hang up my technical ‘yak shavers’ and get about the business of doing things again. 
