@@ -25,10 +25,11 @@ toc: false
 
 # Work Experience
 ## Hylaine - Principal Software Consultant - August 2023 - Present
+### Client Achievements
 - Industrial Plumbling/Piping Client
   - Architected a complete re-write of a Mulesoft integration which lead to an order of magnitude in throughput and better error handling while migrating to the 4.6 Mule Runtime during said process
   - Led team of 4 developers to develop said re-write while developing out our best practices for Mulesoft development
-  - Advisor for an industrial plumbing/piping client the usage of Mulesoft platform
+  - Advisor for said client on the usage of Mulesoft Anypoint Platform
 - Pharmacy Benefit Management Client
   - Designed/Implemented a migration from JIRA to Azure DevOps with custom process flows
   - Created a custom Azure DevOps pipeline to showcase the usage of Azure DevOps to build Salesforce packages
@@ -36,7 +37,8 @@ toc: false
   - Migrated the Contract Tracking System in the following ways:
     - Platform: from PHP6 to PHP8.2
     - Infrastructure: co-located server to Azure Web Apps
-
+### Practice Lead Achievements
+-
 ## Hylaine - Senior Software Consultant - July 2021 - August 2023
 - Logistics Client
   - Refactored a .NET/C# dispatch application for improved code readability and performance
@@ -64,16 +66,16 @@ toc: false
 - Lead Developer in the custom CI/CD code provided to business partners in order to provide a standard process
 
 ## AT&T - Senior Specialist Application Developer - June 2015 - July 2017
-- Technical Coach for the DevOps initiative currently coaching four applications in customizing the use of AT&T chosen tools of Jenkins CI & SonarQube as a part of their development process
+- Technical Coach for the DevOps initiative coached four applications in customizing their use of AT&T-configured Jenkins CI & SonarQube as a part of their development process
 
-- Mentored new Technical Coaches how to onboard new applications to the AT&T choose tools of Jenkins CI & SonarQube
+- Mentored new Technical Coaches how to onboard new applications to the AT&T-configured Jenkins CI & SonarQube
 
 - Presented to AT&T Mobile Center of Excellence on Continuous Integration for Mobile applications
 
 ## AT&T – Specialist Application Developer – June 2013 – January 2015
 - Developed four Asynchronous Application Programming Interfaces (APIs) using AT&T's internal business process modeling which is similar to ActiveVOS.
 
-- Led a team of onshore and offshore contractors to become a business process modeling development group within AT&T.
+- Led a team of onshore and offshore contractors in the development of above APIs to establish the team within the Network Provisoning group.
 
 - Developed a Groovy script that allowed for the team to programmatically create Jenkins Build Jobs using the Jenkins Job DSL plugin.
 
@@ -82,9 +84,9 @@ toc: false
 ## Georgia Tech Research Institute – Research Scientist I – May 2010 – May 2013
 ### _Department of Defense Contractor – 219 million dollars in institute research for FY2013 as of May 2013_
 
-- Configuration Management Assistant and Quality Assurance Representative for the Electronic System Laboratory, which works on electronic warfare analysis, technology development, test and evaluation, and integration to solve complex survivability problems.
+- Configuration Management Assistant and Quality Assurance Representative for the Electronic Systems Laboratory, which works on electronic warfare analysis, technology development, test and evaluation, and integration to solve complex survivability problems.
 
-- Implemented a data server within a classified lab, based on commercial off the shelf (COTS) Linux software. The COTS software is based on Debian Linux, a non-accredited distribution to use in a classified area according to NISPOM standards. Worked directly with Research Security Department and received Defense Security Service accreditation.
+- Implemented a data server within a classified lab, based on commercial off the shelf (COTS) Linux software. The COTS software was based on Debian Linux, a non-accredited distribution to use in a classified area according to NISPOM standards. Worked directly with Research Security Department and received Defense Security Service accreditation.
 
 - Developed a bash script for Red Hat Linux 6 that places a majority of NIPSOM requirements into place on a Red Hat Linux server.
 
@@ -102,7 +104,7 @@ toc: false
 
 # Education
 Bachelor's of Science in Computer Science
-Southern Polytechnic State University, Marietta Georgia, May 2011
+Southern Polytechnic State University, Marietta Georgia, May 2010
 
 Master's of Science in Computer Science
 Southern Polytechnic State University, Marietta Georgia, August 2013
