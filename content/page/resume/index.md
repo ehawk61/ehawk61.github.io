@@ -4,7 +4,7 @@ description: Quick Resume for Meek
 date: '2024-11-10'
 aliases:
   - resume
-lastmod: '2025-11-24'
+lastmod: '2025-11-25'
 menu:
     main:
         weight: -90
@@ -36,7 +36,7 @@ Software architect with nearly 20 years of experience guiding organizations thro
 ### *Advertisment Client*
   - Designed and implemented a migration from Jira to Azure DevOps with custom process flows
   - Created a custom Azure DevOps pipeline demonstrating Salesforce package builds
-## Senior Software Consultant, Hyaline; Raleigh, NC | July 2021 - August 2023
+## Senior Software Consultant, Hylaine; Raleigh, NC | July 2021 - August 2023
 ### *Logistics Client*
   - Refactored a .NET/C# dispatch application for improved code readability and performance
 ### *Speciality Chemicals Client*
