@@ -26,14 +26,14 @@ Software architect with nearly 20 years of experience guiding organizations thro
 
 # Work Experience
 ## Principal Software Architect Consultant, Hylaine; Raleigh, NC | August 2023 - Present
-### *Industrial Plumbling/Piping Client*
+### *Industrial Plumbing/Piping Client*
   - Architected a complete rewrite of a MuleSoft integration, achieving an order-of-magnitude improvement in throughput and enhanced error handling while migrating to Mule Runtime 4.6
   - Led a team of 4 developers through the rewrite, establishing best practices for MuleSoft development
   - Served as technical advisor on MuleSoft AnyPoint Platform strategy and implementation
 ### *Pharmacy Benefit Management Client*
   - Designed/Implemented a migration from JIRA to Azure DevOps with custom process flows
   - Created a custom Azure DevOps pipeline to showcase the usage of Azure DevOps to build Salesforce packages
-### *Advertisment Client*
+### *Advertisement Client*
   - Designed and implemented a migration from Jira to Azure DevOps with custom process flows
   - Created a custom Azure DevOps pipeline demonstrating Salesforce package builds
 ## Senior Software Consultant, Hylaine; Raleigh, NC | July 2021 - August 2023
