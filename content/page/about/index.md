@@ -4,7 +4,7 @@ description: Quick Introduction about Meek
 date: '2024-11-10'
 aliases:
   - about-us
-lastmod: '2024-11-30'
+lastmod: '2026-03-27'
 menu:
     main:
         weight: -90
@@ -27,11 +27,11 @@ During his undergrad, Meek would work the IT Helpdesk at [King & Spalding](https
 Upon graduation from his masters, he would go onto to work for AT&T, writing network provisioning software. He would move on to working at [The Home Depot](https://www.homedepot.com/), developing a common sales tax API that used by homedepot.com along with other internal clients within The Home Depot while leading the development team.
 
 ### Current Work
-He currently works for [Hylaine](https://www.hylaine.com/) as a Principal Software Consultant where his 17 years of experience of working just about every position possible in the software development lifecycle serves as his guide for providing great software and phenomenal service. His top accomplishments with Hylaine are: developing a custom single page application to handle Occupational Safety checklist process for a speciality chemicals client, developing a custom Azure DevOps process along with pipelines for a pharmaceutical client, and leading a team of developers to integration systems using the Mulesoft platform for an industrial plumbing/piping client.
+He currently works for [Hylaine](https://www.hylaine.com/) as a Principal Software Consultant where his 17 years of experience of working just about every position possible in the software development lifecycle serves as his guide for providing great software and phenomenal service. His top accomplishments with Hylaine are: developing a custom single page application to handle Occupational Safety checklist process for a speciality chemicals client, developing a custom Azure DevOps process along with pipelines for a pharmaceutical client, and leading a team of developers to integrate systems using the Mulesoft platform for an industrial plumbing/piping client.
 
 ## Personal Life
-He lives in Raleigh, North Carolina with his wife Melonie and their two cats, Deacon and Rayna.
+He lives in Raleigh, North Carolina with his wife Melonie.
 
 Outside of computers, hobbies and interests include running, reading (especially aviation disasters, I love understanding why systems/processes fail), traveling and finding great food/drink spots wherever he goes.
 
-This bio is written in the third person based on the [bio I saw for Jorge Castro](https://www.ypsidanger.com/about/) so I can re-use like they do. Apologies to Jorge for stealing but hopefully I gave proper credit.
+This bio is written in the third person based on the [bio I saw for Jorge Castro](https://www.ypsidanger.com/about/). Apologies to Jorge for stealing but hopefully I gave proper credit.
