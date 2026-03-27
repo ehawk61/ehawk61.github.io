@@ -209,9 +209,9 @@ menu:
     social:
         - identifier: git
           name: Meek's Git Repos 
-          url: http://git.meeknot.es
+          url: https://github.com/ehawk61
           params:
-              icon: brand-git
+              icon: brand-github
 
         - identifier: mastodon
           name: Meek on Mastodon
